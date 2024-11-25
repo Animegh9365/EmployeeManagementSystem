@@ -1,0 +1,1 @@
+This project is created using Java frameworks. It is build on Maven management tool. MySQL is used to create the tables in the database. And hibernate framework is used to connect the Java logic with the database.
